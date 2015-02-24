@@ -10,7 +10,7 @@ See: [http://nodejs.org](http://nodejs.org)
 
 ##  About this Repo
 
-This is the Git repo of the latest Node.js Docker image for [node](https://registry.hub.docker.com/u/blacktail/node/). See the
+This is the Git repo of the docker image which contains the latest Node.js [node image](https://registry.hub.docker.com/u/blacktail/node/). See the
 Hub page for the full readme on how to use the Docker image and for information
 regarding contributing and issues.
 
